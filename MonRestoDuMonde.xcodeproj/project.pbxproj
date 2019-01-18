@@ -16,6 +16,7 @@
 		1E1DB75421ED20AE004CCC6F /* Enums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E1DB75321ED20AE004CCC6F /* Enums.swift */; };
 		1E1DB75621ED234C004CCC6F /* MENU.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E1DB75521ED234C004CCC6F /* MENU.swift */; };
 		1E1DB75821ED2504004CCC6F /* LesPlats.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E1DB75721ED2504004CCC6F /* LesPlats.swift */; };
+		1E1DB75A21F232B1004CCC6F /* Degrade.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E1DB75921F232B1004CCC6F /* Degrade.swift */; };
 		1E5F6E3821E8FD7A0012A5D6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5F6E3721E8FD7A0012A5D6 /* AppDelegate.swift */; };
 		1E5F6E3D21E8FD7A0012A5D6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E5F6E3B21E8FD7A0012A5D6 /* Main.storyboard */; };
 		1E5F6E3F21E8FD7D0012A5D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E5F6E3E21E8FD7D0012A5D6 /* Assets.xcassets */; };
@@ -33,6 +34,7 @@
 		1E1DB75321ED20AE004CCC6F /* Enums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enums.swift; sourceTree = "<group>"; };
 		1E1DB75521ED234C004CCC6F /* MENU.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MENU.swift; sourceTree = "<group>"; };
 		1E1DB75721ED2504004CCC6F /* LesPlats.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LesPlats.swift; sourceTree = "<group>"; };
+		1E1DB75921F232B1004CCC6F /* Degrade.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Degrade.swift; sourceTree = "<group>"; };
 		1E5F6E3421E8FD7A0012A5D6 /* MonRestoDuMonde.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MonRestoDuMonde.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E5F6E3721E8FD7A0012A5D6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1E5F6E3C21E8FD7A0012A5D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 			isa = PBXGroup;
 			children = (
 				1E1DB74F21ECD7DB004CCC6F /* MenuCell.swift */,
+				1E1DB75921F232B1004CCC6F /* Degrade.swift */,
 			);
 			path = Vue;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 				1E1DB75021ECD7DB004CCC6F /* MenuCell.swift in Sources */,
 				1E1DB74C21EC9670004CCC6F /* Constantes.swift in Sources */,
 				1E5F6E4D21EC841A0012A5D6 /* MenuController.swift in Sources */,
+				1E1DB75A21F232B1004CCC6F /* Degrade.swift in Sources */,
 				1E1DB74E21EC99D0004CCC6F /* MonNav.swift in Sources */,
 				1E5F6E3821E8FD7A0012A5D6 /* AppDelegate.swift in Sources */,
 				1E1DB75821ED2504004CCC6F /* LesPlats.swift in Sources */,
